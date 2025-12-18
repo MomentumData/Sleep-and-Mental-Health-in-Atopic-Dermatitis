@@ -45,54 +45,30 @@ AD severity will be defined using AD treatments utilizing a validated definition
   
 For an individual patient with active AD, severity can change during the study follow-up: once fulfilling criteria for moderate AD, cases remain as moderate unless they develop severe AD. When fulfilling criteria for severe AD, cases remained as severe for the remainder of their follow-up.
 
+### Sleep disturbance
+People identified with a diagnosis code for for [sleep disturbance](https://github.com/MomentumData/Momentum-Data-Codelists/tree/0402c36e3628604fa4df5b0254d76b0449f1bda0/Conditions/Sleep%20disturbance)
+
+### Asthma
+- [Asthma](https://github.com/MomentumData/Momentum-Data-Codelists/tree/d5b18be4932e2467067cf1bb028ef7b92ecb2c58/Conditions/Asthma)
+
 ### Atopic comorbidity
 Any of:
 - [Asthma](https://github.com/MomentumData/Momentum-Data-Codelists/tree/d5b18be4932e2467067cf1bb028ef7b92ecb2c58/Conditions/Asthma)
 - [Allergic rhinitis]()
 - [Urticaria]()
 
-### Sleep disturbance
-People identified with a diagnosis code for for [sleep disturbance](https://github.com/MomentumData/Momentum-Data-Codelists/tree/0402c36e3628604fa4df5b0254d76b0449f1bda0/Conditions/Sleep%20disturbance)
+### Allergic comorbidity
+Any of:
+- [Asthma](https://github.com/MomentumData/Momentum-Data-Codelists/tree/d5b18be4932e2467067cf1bb028ef7b92ecb2c58/Conditions/Asthma)
+- [Allergic rhinitis]()
+- [Urticaria]()
+- [Food Allergy]()
 
-### Sensitivity Analysis - Sleep disturbance not attributed to Asthma
-People identified with a diagnosis code for [sleep disturbance](https://github.com/MomentumData/Momentum-Data-Codelists/tree/cb5741c150989c29ac56b9ee0b3eed0d6e1350f4/Conditions/Sleep%20Disturbance%20not%20attributed%20to%20Asthma), from a subset which excludes any codes that mention asthma.
+### Autism
+- [Autism]()
 
-### Medications used for sleep disturbance
-
-#### Non-sedating antihistamines
-- [Acrivastine]() 
--	[Bilastine]()
--	[Cetirizine]()
--	[Desloratadine]()
--	[Fexofenadine]()
--	[Levocetirizine]()
--	[Loratadine]() 
--	[Mizolastine]()
--	[Rupatadine]()
-
-
-#### Sedating antihistamines
--	[Alimemazine]()
--	[Azatadine]() 
--	[Chlorphenamine]()
--	[Clemastine]()
--	[Cyproheptadine]() 
--	[Dexchlorpheniramine]() 
--	[Dimetindene]()
--	[Diphenhydramine]() 
--	[Diphenylpyraline]() 
--	[Hydroxyzine]()
--	[Ketotifen]()
--	[Mebhydrolin]()
--	[Meclozine]()
--	[Mequitazine]()
--	[Oxatomide]()
--	[Phenindamine]()
--	[Pheniramine]()
--	[Promethazine]()
-
-#### Melatonin
-People identified with a prescription code for [melatonin]()
+### Attention Deficit Hyperactivity Disorder (ADHD)
+- [ADHD]()
 
 ### Mental health outcomes
 
@@ -106,7 +82,7 @@ People identified with a diagnosis code for [anxiety episode](https://github.com
 
 #### [Attention Deficit Hyperactivity Disorder (ADHD)]()
 
-#### [Behavioural disorders]()
+#### [Behavioural and conduct disorders]()
 
 # References
 [^1]: de Lusignan S, Alexander H, Broderick C, et al. Epidemiology and management of atopic dermatitis in England: an observational cohort study protocol. BMJ Open 2020;10(9):e037518. doi: 10.1136/bmjopen-2020-037518
