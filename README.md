@@ -80,9 +80,11 @@ Any of:
 #### Anxiety
 People identified with a diagnosis code for [anxiety episode](https://github.com/MomentumData/Momentum-Data-Codelists/tree/e324df8109e26e9bebd1f891340a12cf711dfa02/Conditions/Anxiety%20Episode)
 
-#### [Attention Deficit Hyperactivity Disorder (ADHD)]()
+#### Attention Deficit Hyperactivity Disorder (ADHD)
+People identified with a diagnosis code for [ADHD]()
 
-#### [Behavioural and conduct disorders]()
+#### Behavioural and conduct Disorders
+People identified with a diagnosis code for any [Behavioural and conduct disorder]()
 
 # References
 [^1]: de Lusignan S, Alexander H, Broderick C, et al. Epidemiology and management of atopic dermatitis in England: an observational cohort study protocol. BMJ Open 2020;10(9):e037518. doi: 10.1136/bmjopen-2020-037518
