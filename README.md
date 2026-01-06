@@ -71,12 +71,6 @@ Any of:
 - [Urticaria](https://github.com/MomentumData/Momentum-Data-Codelists/tree/04bf1598119391c98ea45550cc69cf9f6517a17b/Conditions/Urticaria)
 - [Food Allergy](https://github.com/MomentumData/Momentum-Data-Codelists/tree/ebd4281822835a905a31d2d857179dc4f9433f5b/Conditions/Food%20Allergy)
 
-### Autism
-- [Autism](https://github.com/MomentumData/Momentum-Data-Codelists/tree/726d21351f09487d25365505dfa564602e7af4af/Conditions/Autism)
-
-### Attention Deficit Hyperactivity Disorder (ADHD)
-- [ADHD](https://github.com/MomentumData/Momentum-Data-Codelists/tree/726d21351f09487d25365505dfa564602e7af4af/Conditions/ADHD%20(Attention%20Deficicit%20Hyperactivity%20Disorder))
-
 ### Mental health outcomes
 
 #### Depression
@@ -90,7 +84,7 @@ People identified with a diagnosis code for [Anxiety episode](https://github.com
 #### Attention Deficit Hyperactivity Disorder (ADHD)
 People identified with a diagnosis code for [ADHD](https://github.com/MomentumData/Momentum-Data-Codelists/tree/726d21351f09487d25365505dfa564602e7af4af/Conditions/ADHD%20(Attention%20Deficicit%20Hyperactivity%20Disorder))
 
-#### Behavioural and conduct Disorders
+#### Behavioural and conduct disorders
 People identified with a diagnosis code for any [Behavioural or Conduct Disorder](https://github.com/MomentumData/Momentum-Data-Codelists/tree/834e32214b94f6e56133fb25bdd9696be350a083/Conditions/Behavioural%20and%20Conduct%20Disorders)
 
 # References
