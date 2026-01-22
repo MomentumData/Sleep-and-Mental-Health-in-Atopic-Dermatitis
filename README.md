@@ -1,4 +1,4 @@
-# The mental health burden in children with atopic dermatitis and sleep disturbance: A retrospective matched cohort study in England
+# The impact of concurrent atopic dermatitis and sleep disturbance on mental health in children: retrospective matched cohort study in England
 Codelists, exposure/outcome definitions and algorithms for "The mental health burden in children with atopic dermatitis and sleep disturbance: A retrospective matched cohort study in England" study by Momentum Data.
 
 ## Quality control
